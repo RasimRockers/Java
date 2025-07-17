@@ -1,7 +1,6 @@
 
 ## ✅ Step 1: Download and Install JDK
 
-### 🔹 Recommended: [OpenJDK (Temurin)](https://adoptium.net/temurin/releases/)
 
 Go to: [Click to Download JDK](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe (sha256))
 
