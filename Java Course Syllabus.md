@@ -1,8 +1,5 @@
 # 📘 Java Course Syllabus
 
-Welcome to the Java full course for engineering students! This course is designed to provide a comprehensive understanding of Java programming, from basics to intermediate concepts including OOPs, data structures, and frameworks. Each day is structured to span approximately 4 hours of hands-on teaching and coding practice.
-
----
 
 ## 🗓️ Day 1 – Java Fundamentals
 
